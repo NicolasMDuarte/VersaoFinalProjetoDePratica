@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="bd.dbos.PpFuncionario"/>
+<fullyQualifiedTypeName name="bd.dbos.PpCliente"/>
+<fullyQualifiedTypeName name="bd.daos.PpCategorias"/>
+<fullyQualifiedTypeName name="bd.dbos.PpCategoria"/>
+<fullyQualifiedTypeName name="manut.FrmManutFunc"/>
+<fullyQualifiedTypeName name="bd.daos.PpFuncionarios"/>
+<fullyQualifiedTypeName name="cons.FrmConsFunc"/>
+<fullyQualifiedTypeName name="bd.daos.PpClientes"/>
+<fullyQualifiedTypeName name="cons.FrmConsCli"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="bd.dbos.PpProduto"/>
+<fullyQualifiedTypeName name="bd.dbos.PpVenda"/>
+<fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+<fullyQualifiedTypeName name="relat.FrmRelatMais"/>
+<fullyQualifiedTypeName name="relat.FrmRelatMenos"/>
+<fullyQualifiedTypeName name="bd.daos.PpProdutos"/>
+<fullyQualifiedTypeName name="bd.daos.PpVendas"/>
+<fullyQualifiedTypeName name="bd.core.MeuResultSet"/>
+</qualifiedTypeNameHistroy>

@@ -3,6 +3,7 @@
 Neste repositório estão contidos:
 <ul>
   <li>Parte em Java do projeto</li>
+  <li>Vídeo demonstrativo do app Java</li>
   <li>Parte em Web (HTML/CSS e JavaScript)</li>
   <li>Documentos extras nescessários</li>
 </ul>

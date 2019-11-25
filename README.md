@@ -8,5 +8,5 @@ Neste repositório estão contidos:
   <li>Documentos extras nescessários</li>
 </ul>
 
-<b>Desenvolvido por Matheus Seiji Luna Noda & Nícolas Maisonnette Duarte</b>
+<b>Desenvolvido por Matheus Seiji Luna Noda & Nícolas Maisonnette Duarte</b><br>
 <b>Cólegio Técnico de Campinas - COTUCA, 2019</b>

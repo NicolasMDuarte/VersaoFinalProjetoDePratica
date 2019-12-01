@@ -5,8 +5,8 @@ Neste repositório estão contidos:
   <li>Parte em Java do projeto</li>
   <li>Vídeo demonstrativo do app Java</li>
   <li>Parte em Web (HTML/CSS e JavaScript)</li>
-  <li>Documentos extras nescessários</li>
+  <li>Documentos extras necessários</li>
 </ul>
 
 <b>Desenvolvido por Matheus Seiji Luna Noda & Nícolas Maisonnette Duarte</b><br>
-<b>Cólegio Técnico de Campinas - COTUCA, 2019</b>
+<b>Clégio Técnico de Campinas - COTUCA, 2019</b>

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>GreenBeam</title>
+
+    <script src="https://kit.fontawesome.com/7abbdafe5c.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="shortcut icon" href="imagens/logoWeb-pl.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="css/style-main.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    <!-- header -->
+    <header>
+        <nav class="nav">
+            <ul>
+                <li id="logo">
+                    <img src="imagens/logo3.jpg" alt="Logo da Empresa">
+                </li>
+                <li class="menu">
+                    <a href="index#top">Home</a>
+                </li>
+                <li class="menu">
+                    <a href="login">Login</a>
+                </li>
+                <li class="menu">
+                    <a href="index#aboutUs">About us</a>
+                </li>
+                <li class="carrinho-container">
+                    <a href="carrinho"><i class="fas fa-shopping-cart carrinho"></i></a>
+                </li>
+                <li class="search">
+                    <a href="filter"><i class="fas fa-search" aria-hidden="true"></i></a>
+                </li>
+                <li class="name">
+                    <div class="username" id="usernameId"></div>
+                </li>
+            </ul>
+        </nav>
+    </header>
+     
+    <div class="container-cart">
+        <div class="cart-header">
+            <p id="user-name"></p>
+            Purchases: 
+        </div>
+        <div id="table-cart">
+        </div>
+    </div>
+
+    <script src="script/script-carrinho.js"></script>
+    <link rel="stylesheet" href="css/style-carrinho.css">
+</body>
+</html>

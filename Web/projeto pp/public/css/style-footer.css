@@ -1,0 +1,45 @@
+.footer {
+	position: absolute;
+	width: 100%;
+	background: gray;
+	color: white;
+	height: 8vh;
+	max-height: 83px;
+	min-height: 50px;
+	bottom: 0;
+	text-align: center;
+}
+
+.social-container {
+	margin-top: 12px;
+}
+
+.socialm a {
+	position: relative;
+	font-size: 4vh;
+	color: lightgray;
+	padding: 10px;
+	transition: 0.8s;
+	/* background: white; */
+	border-radius: 100px;
+	transition: 0.6s;
+	margin-top: 5px;
+}
+
+.tt,
+.fb,
+.insta {
+	transition: 0.6s;
+}
+
+.tt:hover {
+	color: #00acee;
+}
+
+.fb:hover {
+	color: #4267b2;
+}
+
+.insta:hover {
+	color: #f77737;
+}

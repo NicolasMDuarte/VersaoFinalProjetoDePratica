@@ -1,0 +1,141 @@
+#filtros a {
+	text-decoration: none;
+	color: #123456;
+	transition: 0.3s;
+}
+
+#filtros ul {
+	margin: 2px;
+	display: list-item !important;
+}
+
+#filtros ul li {
+	user-select: none;
+	list-style: disc outside none;
+	display: list-item;
+	margin-left: 1em;
+	padding: 3px;
+}
+
+#idContainer img {
+	width: 100px;
+}
+
+#idContainer {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	margin: auto;
+}
+
+#idContainer .table-prod {
+	margin: auto;
+}
+
+#idContainer .table-prod td {
+	box-shadow: 10px 10px 17px -19px rgba(0, 0, 0, 0.75);
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.btnVerProd {
+	padding: 5px;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	background: #504de9;
+	user-select: none;
+	transition: 0.6s;
+}
+.btnVerProd:hover {
+	background: #8c8aff;
+}
+.btnVerProd:focus {
+	outline: none;
+}
+
+.prod-container {
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	border-radius: 3px;
+	box-sizing: initial;
+}
+
+.prod-container .pc-img {
+	display: inline-block;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.prod-info {
+	text-align: center;
+	padding: 5px;
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	border-radius: 6px;
+
+	user-select: none;
+	cursor: pointer;
+	color: white;
+	opacity: 0.9;
+	transition: 0.8s;
+	transform: translateY(90px);
+	background: #2655d8;
+}
+
+.btnDesverProd {
+	outline: none;
+	font-size: 10px;
+	padding: 5px;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	background: #504de9;
+	user-select: none;
+	transition: 0.6s;
+}
+
+.btnDesverProd:focus {
+	outline: none;
+}
+
+.addProd {
+	outline: none;
+	font-size: 20px;
+	padding: 5px;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	background: #504de9;
+	user-select: none;
+	transition: 0.6s;
+}
+
+.addProd:hover,
+.btnDesverProd:hover {
+	background: rgb(106, 89, 255);
+}
+
+.addProd:focus {
+	outline: none;
+}
+
+.buscaEnfase {
+	color: rgb(68, 94, 238);
+}
+
+.pResultadoVazio {
+	color: rgb(148, 148, 148);
+}
+.username {
+	position: relative;
+	color: white;
+	float: right;
+	margin-right: 20px;
+	font-size: 1.2em;
+	cursor: pointer;
+}

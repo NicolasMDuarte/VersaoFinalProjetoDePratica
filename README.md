@@ -9,4 +9,4 @@ Neste repositório estão contidos:
 </ul>
 
 <b>Desenvolvido por Matheus Seiji Luna Noda & Nícolas Maisonnette Duarte</b><br>
-<b>Clégio Técnico de Campinas - COTUCA, 2019</b>
+<b>Colégio Técnico de Campinas - COTUCA, 2019</b>

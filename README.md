@@ -8,5 +8,5 @@ Neste repositório estão contidos:
   <li>Documentos extras necessários</li>
 </ul>
 
-<b>Desenvolvido por <a href="https://github.com/SeijiNoda" target="_blank">Matheus Seiji Luna Noda</a> & <a href="https://github.com/NicolasMDuarte" target="_blank">Nícolas Maisonnette Duarte</a></b><br>
+<b>Desenvolvido por <a href="https://github.com/SeijiNoda">Matheus Seiji Luna Noda</a> & <a href="https://github.com/NicolasMDuarte">Nícolas Maisonnette Duarte</a></b><br>
 <b>Colégio Técnico de Campinas - COTUCA, 2019</b>

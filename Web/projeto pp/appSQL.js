@@ -4,7 +4,7 @@ const app = express();
 const bodyParser = require('body-parser');
 const porta = 3000; //porta padrão
 const sql = require('mssql');
-const conexaoStr = 'Server=regulus.cotuca.unicamp.br;Database=BD19190;User Id=BD19190;Password=XADkhp4754;';
+const conexaoStr = 'Server=regulus.cotuca.unicamp.br;Database=BD19190;User Id=BD19190;Password=??????;';
 app.use(express.static('public'));
 
 //conexao com BD
